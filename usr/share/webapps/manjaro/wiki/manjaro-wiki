@@ -1,3 +1,3 @@
 #!/bin/bash
-cd /opt/webapps/manjaro/wiki
+cd /usr/share/webapps/manjaro/wiki
 jak https://wiki.manjaro.org

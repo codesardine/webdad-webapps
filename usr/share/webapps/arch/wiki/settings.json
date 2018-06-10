@@ -1,0 +1,13 @@
+{
+    "app": {
+        "name": "Aech Online Help - Wiki",
+        "description": "Get Help by reading the Arch WIKI, It has more comprehensive guides and tutorials"
+    },
+    "window": {
+        "fullscreen": "yes",
+        "window_icon": "/usr/share/icons/Papirus/48x48/apps/distributor-logo-archlinux.png"
+    },
+    "webkit": {
+        "cache": "online"
+    }
+}
