@@ -1,0 +1,12 @@
+[Desktop Entry]
+Version=1.0
+Terminal=false
+Icon=/usr/share/icons/Papirus/48x48/apps/distributor-logo-archlinux.png
+Type=Application
+Categories=Documentation;
+Exec=/usr/share/webapps/manjaro/wiki/manjaro-wiki
+Name=Arch Wiki
+GenericName=Arch Wiki
+Comment=Get Help by reading the Arch WIKI, It has more comprehensive guides and tutorials
+StartupNotify=true
+
