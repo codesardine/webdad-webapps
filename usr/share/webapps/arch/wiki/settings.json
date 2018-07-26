@@ -5,7 +5,7 @@
     },
     "window": {
         "fullscreen": "yes",
-        "window_icon": "/usr/share/icons/Papirus/48x48/apps/distributor-logo-archlinux.png"
+        "window_icon": "distributor-logo-archlinux.png"
     },
     "webkit": {
         "cache": "online"

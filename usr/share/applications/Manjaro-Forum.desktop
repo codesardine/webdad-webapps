@@ -1,7 +1,7 @@
 [Desktop Entry]
 Version=1.0
 Terminal=false
-Icon=/usr/share/icons/Papirus/48x48/apps/distributor-logo-manjaro.png
+Icon=distributor-logo-manjaro.png
 Type=Application
 Categories=Documentation;
 Exec=/usr/share/webapps/manjaro/forum/manjaro-forum
