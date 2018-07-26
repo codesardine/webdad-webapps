@@ -1,13 +1,19 @@
 {
     "app": {
+        "route": "",
         "name": "Aech Online Help - Wiki",
         "description": "Get Help by reading the Arch WIKI, It has more comprehensive guides and tutorials"
     },
-    "window": {
-        "fullscreen": "yes",
-        "window_icon": "distributor-logo-archlinux.png"
+     "window": {
+	"width": 1150,
+	"height": 650,
+        "icon": "distributor-logo-archlinux.png"
     },
     "webkit": {
-        "cache": "online"
-    }
+		"cache": "online",
+		"context_menu": false,
+		"user_agent": "",
+		"site_quirks": false,
+		"same_frame": []
+	}
 }

@@ -1,13 +1,19 @@
 {
     "app": {
+        "route": "",
         "name": "Manjaro Online Help - Wiki",
         "description": "Get Help by reading the manjaro Wiki guides and tutorials"
     },
     "window": {
-        "fullscreen": "yes",
-        "window_icon": "distributor-logo-manjaro.png"
+	"width": 1150,
+	"height": 650,
+        "icon": "distributor-logo-archlinux.png"
     },
     "webkit": {
-        "cache": "online"
-    }
+		"cache": "online",
+		"context_menu": false,
+		"user_agent": "",
+		"site_quirks": false,
+		"same_frame": []
+	}
 }

@@ -2,7 +2,7 @@
 
 _pkgname=webdad-webapps
 pkgname="$_pkgname-git"
-pkgver=r1.8bd9748
+pkgver=r4.93b4371
 pkgrel=1
 pkgdesc="JAK Web Application wrappers for Manjaro Forum/Wiki and Arch Wiki"
 arch=('any')
